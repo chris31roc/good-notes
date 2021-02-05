@@ -1,0 +1,31 @@
+{
+  "name": "mynotes",
+  "version": "1.0.0",
+  "description": "An application that allows the user to take notes and create new notes. The application can also save those notes the user created.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris31roc/good-notes.git"
+  },
+  "keywords": [
+    "note",
+    "taker",
+    "node.js",
+    "using",
+    "servers"
+  ],
+  "author": "Christopher Hicks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris31roc/good-notes/issues"
+  },
+  "homepage": "https://github.com/chris31roc/good-notes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
