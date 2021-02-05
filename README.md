@@ -26,4 +26,5 @@ An application that allows the user to take notes and create new notes. The appl
 # Reason and Problems
 Being able to take notes is a tool that should be at everyone's fingertips for any topic or idea. This was an assignment that I needed a lot of help with. My coding friends and my tutors helped me with the application because my original code would not connect to the notes.html file even after I refractered my original code.
 
-# Link to video
+# Link to Application
+[VIEW MY WORK HERE!](https://good-note2.herokuapp.com/)
