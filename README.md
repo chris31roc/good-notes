@@ -1,6 +1,6 @@
 # Good Notes
 
-![Photo of Application](./public/assets/.png)
+![Photo of Application](./public/assets/good-notes.png)
 
 
 # Link to Application
