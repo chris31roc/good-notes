@@ -1,30 +1,26 @@
-# good-notes
+# Good Notes
 
+![Photo of Application](./public/assets/.png)
 
-* [github](#github)
-
-* [email](#email)
-
-* [title](#title)
-
-* [description](#description)
-
-* [reason](#reason)
-
-# Github
-chris31roc
-
-# E-Mail
-chris31roc@yahoo.com
-
-#### Title
-Note Taker
-
-# Description
-An application that allows the user to take notes and create new notes. The application can also save those notes the user created.
-
-# Reason and Problems
-Being able to take notes is a tool that should be at everyone's fingertips for any topic or idea. This was an assignment that I needed a lot of help with. My coding friends and my tutors helped me with the application because my original code would not connect to the notes.html file even after I refractered my original code.
 
 # Link to Application
-[VIEW MY WORK HERE!](https://good-note2.herokuapp.com/)
+[VIEW MY APPLICATION HERE!](https://good-note2.herokuapp.com/)
+
+
+## Table of Contents
+
+* [Description](#Description)
+* [Author](#Author)
+
+
+## Description
+ 
+Being able to take notes is a tool that should be at everyone's fingertips for any topic or idea. Good Notes is an application that allows the user to take notes and create new notes. The application can also save the notes the user created. And just as the user can create notes, the user can also delete notes as well. 
+
+## Author
+
+**Christopher Hicks**
+
+- Github: [chris31roc](https://github.com/chris31roc)
+
+- Email: chris31roc@yahoo.com
